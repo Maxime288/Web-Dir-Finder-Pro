@@ -2,6 +2,7 @@ admin
 login
 css
 js
+msfadmin 
 config
 backup
 secret
